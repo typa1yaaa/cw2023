@@ -1,11 +1,11 @@
 This repository contains **the programming coursework** for semester 1.
-:dizzy:Topic:dizzy:
+# Topic 
 String processing in the **C programming language**. 
     
 -------------------------------------------------------------------
 
 В данном репозитории находится **курсовая работа по программированию** за 1 семестр.
-:dizzy:Тема:dizzy:
+# Тема
 Обработка строк на **языке программирования С**.
 
 **Enjoy! /ᐠ - ˕ -マ***
