@@ -1,5 +1,5 @@
 This repository contains the programming coursework for semester 1.
-Topic: string processing in the C programming language.
+<h1>Topic<h1/> string processing in the C programming language.
 
 -------------------------------------------------------------------
 
